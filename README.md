@@ -21,7 +21,7 @@ Create virtual environment
 
 Upgrade Pip then install all packages
 
-    pip install -upgrade pip
+    pip install --upgrade pip
     pip install -r requirements.txt
 
 ## Running the tests
