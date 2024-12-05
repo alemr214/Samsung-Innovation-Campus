@@ -4,3 +4,5 @@ matplotlib
 os
 scipy
 seaborn
+scikit-plot
+scikit-learn
