@@ -1,7 +1,6 @@
 numpy
 pandas
 matplotlib
-os
 scipy
 seaborn
 scikit-plot
